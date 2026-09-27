@@ -1,4 +1,4 @@
-# Godot 4.7 documentation in English
+# Godot 4.7 documentation for Codex Skill
 
 Markdown export of the official Godot Engine 4.7 documentation, for people and for coding agents that need the real 4.7 signatures instead of memory from older versions.
 
